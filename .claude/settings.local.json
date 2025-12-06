@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.specify/scripts/bash/create-phr.sh:*)",
+      "Bash(git fetch:*)",
+      "Bash(mkdir:*)",
+      "Bash(if test:*)",
+      "Bash(then pwsh:*)",
+      "Bash(bash -c \"echo \"\"{\"\"error\"\": \"\"pwsh not found or script failed\"\"}\"\"\")",
+      "Bash(else echo \"\"{\"\"error\"\": \"\"setup-plan.ps1 not found\"\"}\"\")",
+      "Bash(fi)",
+      "WebSearch",
+      "Bash(pwsh:*)",
+      "Bash(powershell.exe -Command:*)",
+      "Bash(git rev-parse:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
