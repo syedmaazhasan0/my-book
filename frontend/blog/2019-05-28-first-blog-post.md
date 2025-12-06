@@ -1,7 +1,7 @@
 ---
 slug: first-blog-post
 title: First Blog Post
-authors: [Syed-Maaz-Hasan]
+authors: [syedmaazhasan]
 tags: [hola, docusaurus]
 ---
 
