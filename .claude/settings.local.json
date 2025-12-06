@@ -17,7 +17,16 @@
       "Bash(dir:*)",
       "Bash(pip install -r requirements.txt)",
       "Bash(netstat -ano)",
-      "Bash(findstr :3000)"
+      "Bash(findstr :3000)",
+      "Bash(gh repo create syedmaazhasan0/my-research-book --public --description \"Physical AI & Humanoid Robotics research book\")",
+      "Bash(git remote add origin https://github.com/syedmaazhasan0/my-research-book.git)",
+      "Bash(git remote set-url origin https://github.com/syedmaazhasan0/my-research-book.git)",
+      "Bash(npm install)",
+      "Bash(npm run build)",
+      "Bash(npm run)",
+      "Bash(npx docusaurus build)",
+      "Bash(rm -rf node_modules)",
+      "Bash(./node_modules/.bin/docusaurus --version)"
     ],
     "deny": [],
     "ask": []
