@@ -1,7 +1,7 @@
 ---
 slug: long-blog-post
 title: Long Blog Post
-authors: [Syed-Maaz-Hasan]
+authors: [syedmaazhasan]
 tags: [hello, docusaurus]
 ---
 
